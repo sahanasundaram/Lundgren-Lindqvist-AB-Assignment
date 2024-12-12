@@ -1,4 +1,4 @@
-const BASE_URL = 'https://api.weatherapi.com/v1/current.json';
+
 const GEOLOCATION_URL = 'http://ip-api.com/json/';
 
 export const fetchWeather = async (lat, lon) => {
